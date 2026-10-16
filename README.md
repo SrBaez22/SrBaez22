@@ -4,4 +4,3 @@
 - 🌱 Estudando desenvolvimento web e aprofundando em C
 - 📫 Contate-me em: davidjunyor@live.com
 - 😄 Pronomes: ele/dele
--->
