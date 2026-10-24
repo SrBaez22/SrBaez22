@@ -1,11 +1,13 @@
 ## Olá! Eu sou o Sergio Baez 👋
 
-- 🔭 Hoje trabalho com análise de dados e automações com python
+- 🔭 Atualmente trabalho com análise de dados e automações com python e SQL
 - 🌱 Estudando desenvolvimento web e aprofundando em C
 - 📫 Contate-me em: davidjunyor@live.com
 - 😄 Pronomes: ele/dele
 
-Me chamo Sergio Baez, tenho 22 anos e moro em Manaus. Finalizando a faculdade de engenharia eletrônica na Universidade do Estado do Amazonas. Sou apaixonado pela tecnologia e uso este repositório para fazer projetos de faculdade, estudar novas linguagens e treinar a minha lógica no dia-a-dia. Você pode achar mais detalher da minha trajetória profissional no meu perfil do [Linkedin](www.linkedin.com/in/sergio-david-baez).
+Me chamo Sergio Baez, tenho 22 anos e moro em Manaus. Estou finalizando a graduação em Engenharia Eletrônica na Universidade do Estado do Amazonas. Sou apaixonado por tecnologia e utilizo este repositório para desenvolver projetos acadêmicos, estudar novas linguagens de programação e exercitar minha lógica no dia a dia.
+
+Você pode encontrar mais detalhes sobre minha trajetória profissional no meu perfil do [LinkedIn](https://www.linkedin.com/in/sergio-david-baez/).
 
    <p align="left">
          <a href="https://github.com/SrBaez22?tab=repositories&sort=stargazers">
@@ -63,6 +65,22 @@ Me chamo Sergio Baez, tenho 22 anos e moro em Manaus. Finalizando a faculdade de
 />
 
 <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+<img
     align="left" 
     alt="Git" 
     title="Git"
